@@ -1,0 +1,29 @@
+
+body{
+  background-image: url(../chalkboard-min.jpg);
+}
+.outter-wrapper{
+  display: flex;
+  justify-content: center;
+}
+
+.wrapper{
+  margin-top: 10%;
+  padding: 1em;
+  color: white;
+  font-family: 'Roboto Slab', serif;
+}
+
+.links{
+  display: flex;
+  justify-content: space-around;
+}
+
+a{
+  text-decoration: none;
+  color:  #FFC300;
+}
+
+a:hover{
+  text-decoration: underline;
+}
